@@ -64,4 +64,4 @@ Graph plotting
 
 In coming days or months, it will be working for more type of datasets with more refiened and clearer results.
 
-## Contributions and feedback are encouraged
+*Contributions and feedback are encouraged*
