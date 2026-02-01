@@ -313,6 +313,6 @@ GRAPHS: (need to specify type of graph)
 while True:
     user_input = input("You: ")
     if user_input.lower() == "exit":
-        print("Ana: Goodbye!")
+        print("Ana: I hope you got your answers, see you soon.")
         break
     print("Ana:", chatbot(user_input), "\n")
